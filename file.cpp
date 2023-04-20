@@ -1,3 +1,5 @@
+//BANGASH, Xi'an Jiaotong University, China
+
 #include "opencv2/opencv.hpp"
 #include <time.h>
 
@@ -8,9 +10,7 @@ int main(int argc, char** argv)
 {
 
     // Start default camera
-  //  VideoCapture video("C:/Users/admin/Downloads/OpenCv projects/Ultrasounds.mp4");
     VideoCapture video(1);
-   // VideoCapture video("C:/Users/admin/Downloads/OpenCv projects/C++ Output/MyC++OutputA02.avi");
 
     // With webcam get(CV_CAP_PROP_FPS) does not work.
     // Let's see for ourselves.

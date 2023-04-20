@@ -1,4 +1,4 @@
-//BANGASH, Xi'an Jiaotong University, China
+//BANGASH, SIAT CAS Shenzhen, China
 
 #include "opencv2/opencv.hpp"
 #include <time.h>
